@@ -1,5 +1,5 @@
 VERY IMPORTANT!!! The files that contain the app are stored in the master branch.
-ST10444102 Christopher Prinsloo
+ST10444102 Christopher Prinsloo https://github.com/10444102/IMAD-PRACTICUM-final.git
 1. Initialize the app:
 Show the splash screen (app logo or animation).
 Wait for a few seconds.
